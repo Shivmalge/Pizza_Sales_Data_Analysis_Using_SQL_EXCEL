@@ -5,3 +5,10 @@
 - **Tools Used:**
   - **SQL (for data cleaning, transformation, and querying)**
   - **Microsoft Excel (for data visualization and dashboarding)**
+- **KPIs Analyzed:**
+  - **📈 Total Revenue**
+  - **💰 Average Order Value (AOV)**
+  - **🍕 Total Pizzas Sold**
+  - **🧾 Average Pizzas per Order**
+  - **📅 Daily Trend of Total Orders**
+  - **⏰ Hourly Trend of Total Orders**  
