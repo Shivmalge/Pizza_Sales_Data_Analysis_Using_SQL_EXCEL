@@ -54,7 +54,77 @@ group by pizza_size
     - select top 5 pizza_name, sum(quantity) as total_pizzas_sold from pizza_sales group by pizza_name order by total_pizzas_sold
       ### ![image](https://github.com/user-attachments/assets/6900f26b-5076-40f6-a662-09e98c914a27)
 
-      
+### 📊 Dashboard Review: 
+#### The dashboard created using Excel provides a clear and interactive overview of key business metrics, helping stakeholders make informed decisions quickly. Here's a breakdown of the insights covered:
+### 🔑 Key Metrics and Insights
+- **💰 Total Revenue**
+
+  - Displays overall revenue generated across all orders.
+
+  - Highlights the restaurant's financial performance at a glance.
+
+- **🧾 Average Order Value (AOV)**
+
+  - Indicates the average revenue per order.
+
+  - Useful for identifying upsell/cross-sell opportunities.
+
+- **🍕 Total Pizzas Sold**
+
+  - Shows the volume of pizzas sold.
+
+  - Helps gauge customer demand and popular selling days.
+
+- **📦 Average Pizzas per Order**
+
+  - Gives an idea of order size and customer buying behavior.
+
+- **📅 Daily Trend of Total Orders**
+
+  - A time-series chart showing how orders fluctuate day by day.
+
+  - Useful for spotting peak days or drop-offs.
+
+- **⏰ Hourly Trend of Total Orders**
+
+  - Reveals the most popular hours for orders.
+
+  - Helps optimize staffing and kitchen operations during peak hours.
+
+- **📐 % of Sales by Pizza Size**
+
+  - Visual breakdown (e.g., pie chart) showing which pizza sizes (Small, Medium, Large) drive most sales.
+
+  - Aids in inventory planning and pricing strategies.
+
+- **🍕 Total Pizzas Sold by Pizza Category**
+
+  - Compares categories like Classic, Veggie, and Supreme.
+
+  - Useful for menu refinement and marketing focus.
+
+- **📊 % of Sales by Pizza Category**
+
+  - Highlights revenue contribution by category.
+
+  - Helps in identifying the most profitable segments.
+
+- **🏆 Top 5 Best Sellers by Total Pizzas Sold*
+
+  - Lists the most popular pizzas based on units sold.
+
+  - Great for promotion and bundling strategies.
+
+- **📉 Bottom 5 Best Sellers by Total Pizzas Sold**
+
+  - Identifies underperforming pizzas.
+
+  - Useful for potential discontinuation or revamp
+  
+## 🎥 Dashboard Demo
+### Watch the video below to explore how key KPIs and trends are visualized in the Excel dashboard.
+https://github.com/user-attachments/assets/f06f4ea5-784b-46e5-85de-6395d2efb4c6
+
   ## Conclusion :
   #### 1️⃣ Buisest Days: Orders are Highest on weekends, Friday/Saturday evenings
   #### 2️⃣ Buisest Times: There are Maximum order from 12-01 PM & after 4-8 PM
@@ -63,3 +133,8 @@ group by pizza_size
   #### 5️⃣ Best Sellers: Classic Deluxe & Chicken pizzas are Best sellers & revenue generators
   #### 6️⃣ Worst Seller: The Brie Carre is at Bottom in both Orders and Revenue
    
+Project By - Shivsharan Malage
+
+[Github](https://github.com/Shivmalge)
+
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
