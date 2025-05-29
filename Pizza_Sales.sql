@@ -28,7 +28,7 @@ from pizza_sales
 GROUP BY DATEPART(HOUR,order_time)
 ORDER BY DATEPART(HOUR,order_time)
 
---8.
+--8.Average Pizzas Sold as Per Pizzas Size
 select pizza_category,sum(total_price) as total_price, ((SUM(total_price) * 100) /
 (select sum(total_price) from pizza_sales where DATEPART(QUARTER,order_date) = 1)) as percentage
 from pizza_sales
