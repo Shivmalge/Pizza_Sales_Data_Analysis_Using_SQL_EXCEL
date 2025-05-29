@@ -54,5 +54,12 @@ group by pizza_size
     - select top 5 pizza_name, sum(quantity) as total_pizzas_sold from pizza_sales group by pizza_name order by total_pizzas_sold
       ### ![image](https://github.com/user-attachments/assets/6900f26b-5076-40f6-a662-09e98c914a27)
 
-
+      
+  ## Conclusion :
+  #### 1️⃣ Buisest Days: Orders are Highest on weekends, Friday/Saturday evenings
+  #### 2️⃣ Buisest Times: There are Maximum order from 12-01 PM & after 4-8 PM
+  #### 3️⃣ Pizza Category: Classic category contributes to Maximum sales and total orders
+  #### 4️⃣ Pizza Size: Large size Pizza contributes to Maximum sales
+  #### 5️⃣ Best Sellers: Classic Deluxe & Chicken pizzas are Best sellers & revenue generators
+  #### 6️⃣ Worst Seller: The Brie Carre is at Bottom in both Orders and Revenue
    
